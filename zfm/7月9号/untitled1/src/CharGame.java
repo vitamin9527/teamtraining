@@ -6,22 +6,22 @@ import java.util.Scanner;
  */
 public class CharGame {
     public static void main(String[] args) {
-        char result[] = caseNumber();
+        char result[] = caseNumber();//接收随机字符
         System.out.println(result);
-        while(true){
+        while(true){//循环猜
             Scanner sc = new Scanner(System.in);
-            System.out.println("请开始。");
-            char [] user = sc.nextLine().toUpperCase().toCharArray();
-            if(String.valueOf(user).equals("EXIT")){
+            System.out.println("请开始。");//提示
+            char [] user = sc.nextLine().toUpperCase().toCharArray();//将全部转为大写并且转为数组
+            if(String.valueOf(user).equals("EXIT")){//当输入exit时退出游戏
                 System.out.println("再见");
                 return;
             }
             System.out.println(user);
-            if(user.length!=5){
+            if(user.length!=5){//当长度不符合时提示
                 throw new RuntimeException("字符长度只能为五");
             }
-            int math[] =  check(user,result);
-            if(math[0]==5){
+            int math[] =  check(user,result);//接收反馈参数
+            if(math[0]==5){//当正确率为5的时候成功
                 System.out.println("恭喜你！");
                 return;
             }
