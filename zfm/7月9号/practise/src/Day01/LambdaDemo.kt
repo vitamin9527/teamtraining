@@ -1,4 +1,4 @@
-package Day01
+package day01
 
 /**
  * 关于lambda函数的

@@ -1,4 +1,4 @@
-package Day01
+package day01
 
 /**
  * 定义变量
