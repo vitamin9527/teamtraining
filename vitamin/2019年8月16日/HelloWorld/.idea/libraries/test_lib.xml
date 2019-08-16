@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="test_lib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/网络直播课-idea实用教程-2018-7-25/test_lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/网络直播课-idea实用教程-2018-7-25/test_lib" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/网络直播课-idea实用教程-2018-7-25/test_lib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/网络直播课-idea实用教程-2018-7-25/test_lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
