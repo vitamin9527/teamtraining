@@ -13,5 +13,7 @@ public class D1 {
         int B = sc.nextInt();
         System.out.println("answer");
         System.out.println(A+B);
+       
+        
     }
 }
