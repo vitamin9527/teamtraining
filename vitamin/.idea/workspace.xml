@@ -25,8 +25,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2211" />
-    <option name="y" value="44" />
+    <option name="x" value="2262" />
+    <option name="y" value="62" />
     <option name="width" value="1401" />
     <option name="height" value="952" />
   </component>
@@ -48,7 +48,21 @@
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scratches" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vitamin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vitamin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webServer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -164,7 +178,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565927696344</updated>
-      <workItem from="1565927698367" duration="151000" />
+      <workItem from="1565927698367" duration="355000" />
     </task>
     <task id="LOCAL-00001" summary="222">
       <created>1565927812882</created>
@@ -173,14 +187,21 @@
       <option name="project" value="LOCAL" />
       <updated>1565927812882</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="222">
+      <created>1565928011674</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565928011674</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151000" />
+    <option name="totallyTimeSpent" value="355000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2211" y="44" width="1401" height="952" extended-state="0" />
+    <frame x="2262" y="62" width="1401" height="952" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
